@@ -1,0 +1,6 @@
+<route templateId="Elasticsearch" routeId="Metric-001" useYn="Y">
+	<elasticOperation>Index</elasticOperation>
+	<elasticUrl>10.47.39.67:9200</elasticUrl>
+	<elasticIndex>localmetric-hj</elasticIndex>
+	<periodMs>5000</periodMs>
+</route>
